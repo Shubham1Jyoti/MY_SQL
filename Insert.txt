@@ -1,0 +1,20 @@
+insert into Employee values(1,"Ram Kumar",25500,"Ambala","India");
+insert into Employee values(2,"Alex Tim",15000,"Surat","India");
+insert into Employee values(3,"Sita Devi",65000,"Meerut","India");
+insert into Employee values(4,"Breet Lee",28000,"Bareily","India");
+insert into Employee values(5,"Shawn Mars",13250,"Patna","India");
+insert into Employee values(6,"Kim Pollard",11000,"Ambala","India");
+insert into Employee values(7,"Saurav Singh",17000,"Ambala","India");
+insert into Employee values(8,"Dwan Bravo",13000,"Ambala","Patna");
+insert into Employee values(9,"Mohammad Shami",12500,"Thane","India");
+insert into Employee values(10,"Mohammad Siraj",8500,"Leh","India");
+insert into Employee values(11,"Babeta Kaur",36000,"Ladakh","India");
+insert into Employee values(12,"Simran Sinhg",45000,"Mewar","India");
+insert into Employee values(13,"Sania Khan",15600,"Bareily","India");
+insert into Employee values(14,"Himanshu Kumar",55200,"Indoor","India");
+insert into Employee values(15,"Pankaj Singh",60000,"Ladakh","India");
+
+
+
+
+
