@@ -1,0 +1,2 @@
+update Employee set Emp_Name="Babita Kaur" where Emp_ID=11;
+update Employee set Emp_City="Berlin" where Emp_Name="Mohammad Siraj";
